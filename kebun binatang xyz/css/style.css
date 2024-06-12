@@ -104,15 +104,9 @@ body {
 }
 
 .source {
-    background-color: darkgoldenrod;
-    display: flex;
-    padding: 25px;
-    justify-content: center;
+    background-color: darksalmon;
     text-align: center;
-}
-
-.sumber {
-    padding: 0px auto;
-    display: flex;
     align-items: center;
+    justify-content: center;
+    display: block;
 }
