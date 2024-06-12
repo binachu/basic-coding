@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+
+* {
+    padding: 20px;
+    margin: 0px 10px;
+    background-color: blanchedalmond;
+    align-items: center;
+    justify-content: center;
+}
+
+.animal-list {
+    padding: 0%;
+    margin: 0px;
+    background-color: skyblue;
+    align-items: center;
+    justify-content: center;
+    background-size: 10px;
+}
+
+.feline {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+.canine {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bird {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    color: steelblue;
+    border: solid 1px black;
+    font-size: 75px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family:"Seymour", system-ui; 
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
+
+body {
+    background-color: rosybrown;
+}
+
+.source {
+    background-color: salmon;
+    align-items: center;
+    justify-content: baseline;
+    padding: 10px;
+    margin: 0px;
+}
